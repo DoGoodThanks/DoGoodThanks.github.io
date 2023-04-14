@@ -1,5 +1,6 @@
 .cash-app img {
-    height:150px;
+    /* height:150px; */
+    width: 100%;
     padding-top: 15px;
     padding-bottom: 15px;
 }
